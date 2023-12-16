@@ -362,4 +362,9 @@ header .header-contant img {
         align-items: center;
     }
 
+        header .header-contant img {
+        max-width: 180px;
+        margin: auto;
+    }
+
 }
